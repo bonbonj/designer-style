@@ -5,7 +5,7 @@ html{
 * {box-sizing: border-box;}
 body{
   font-family: "Nunito", sans-serif;
-  font-size: 25px;
+  font-size: 130%;
   margin: auto;
 }
 
@@ -329,6 +329,7 @@ img{
   grid-template-columns:1fr 1fr;
   padding-left: 22%;
   padding-right: 22%;
+  margin:auto;
 }
 
 .card{
@@ -337,8 +338,8 @@ img{
   border-width: 5px;
   border-radius: 20px;
   background-color: #fffdf9;
-  width:400px;
-  height:400px;
+  width:80%;
+  height:auto;
   text-align:left;
   margin:auto;
   padding: 2%;
