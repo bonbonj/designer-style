@@ -136,7 +136,7 @@ h1{
 h2{
   color:#0c7b93;
   margin:0;
-  padding:50px;
+  padding:5%;
   text-align: center;
 }
 
@@ -603,8 +603,8 @@ h1{
 }
 
 p{
-  padding-left: 300px;
-  padding-right: 300px;
+  padding: auto;
+  margin: auto;
 }
 .container{
   grid-template-rows: repeat(4,auto) ;
